@@ -51,3 +51,4 @@ int main()
     printf("共有%d种方法",count);
     return 0;
 }
+

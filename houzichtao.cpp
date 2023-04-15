@@ -18,3 +18,4 @@ int main(){
     printf("第一天猴子摘下了%d个桃子",peach);
     return 0;
 }
+

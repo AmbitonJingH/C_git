@@ -31,3 +31,4 @@ int main(){
     printf("总共%d个数",count);
     return 0;
 }
+
